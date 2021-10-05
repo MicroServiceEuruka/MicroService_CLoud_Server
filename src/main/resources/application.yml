@@ -10,5 +10,6 @@ spring:
       server:
         git:
           uri: https://github.com/MicroServiceEuruka/MicroService_CLoud_Server
-          default-label: main
+          default-label: master
         bootstrap: false
+#  default-label là nhánh branch trên github
